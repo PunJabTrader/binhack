@@ -231,6 +231,17 @@ const DepositInfo = () => {
               {loading ? t.unlocking : t.unlock_access}
             </Button>
             {message && <Message>{message}</Message>}
+
+            {/* Нова кнопка "Написати мені" */}
+            <TelegramButton
+              href="https://t.me/punjab_trade"
+              target="_blank" // Відкриває посилання в новій вкладці
+              rel="noopener noreferrer" // Рекомендовано для безпеки при target="_blank"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              {t.contact_me_telegram} {/* Використовуємо ключ перекладу */}
+            </TelegramButton>
           </ContentOverlay>
         </OverlayContainer>
     </AnimatePresence>
