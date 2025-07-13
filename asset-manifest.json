@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/binhack/static/js/main.d82527a4.js",
+    "main.js": "/binhack/static/js/main.a4dacdf4.js",
     "static/media/chicken-road-bg.jpg": "/binhack/static/media/chicken-road-bg.0c5500b98f3a27cf18ba.jpg",
     "index.html": "/binhack/index.html",
-    "main.d82527a4.js.map": "/binhack/static/js/main.d82527a4.js.map"
+    "main.a4dacdf4.js.map": "/binhack/static/js/main.a4dacdf4.js.map"
   },
   "entrypoints": [
-    "static/js/main.d82527a4.js"
+    "static/js/main.a4dacdf4.js"
   ]
 }
