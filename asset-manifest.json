@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/PunJabTrader/binhack.git/static/js/main.3d969e1c.js",
-    "static/media/chicken-road-bg.jpg": "/PunJabTrader/binhack.git/static/media/chicken-road-bg.0c5500b98f3a27cf18ba.jpg",
-    "index.html": "/PunJabTrader/binhack.git/index.html",
-    "main.3d969e1c.js.map": "/PunJabTrader/binhack.git/static/js/main.3d969e1c.js.map"
+    "main.js": "/PunJabTrader/binhack/static/js/main.0d9640db.js",
+    "static/media/chicken-road-bg.jpg": "/PunJabTrader/binhack/static/media/chicken-road-bg.0c5500b98f3a27cf18ba.jpg",
+    "index.html": "/PunJabTrader/binhack/index.html",
+    "main.0d9640db.js.map": "/PunJabTrader/binhack/static/js/main.0d9640db.js.map"
   },
   "entrypoints": [
-    "static/js/main.3d969e1c.js"
+    "static/js/main.0d9640db.js"
   ]
 }
