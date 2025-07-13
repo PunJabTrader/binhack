@@ -1,7 +1,7 @@
 // src/api/api.js
 // ВАЖЛИВО: Замініть 'ВАША_ЛОКАЛЬНА_IP' на фактичну IP-адресу вашого комп'ютера в локальній мережі.
 // Наприклад: 'http://192.168.1.100:5000/api'
-const BACKEND_URL = 'http://192.168.0.245:5000/api'; 
+const BACKEND_URL = 'http://46.219.5.135:5000/api'; 
 
 export const verifyAccessKey = async (accessKey) => {
     try {
